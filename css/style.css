@@ -1,0 +1,55 @@
+#top-div{
+background-color: #E4F9F5;
+position: relative;
+}
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+#bottom-cloud{
+
+width: 10%;
+position: absolute;
+left: 18%;
+bottom: 70%;
+}
+#top-cloud{
+width: 10%;
+position: absolute;
+top: 7%;
+right: 20%;
+}
+#mountain{
+    width: 45%;
+}
+#web-img{
+width: 10%;
+
+}
+h1{
+    padding-top: 5% ;
+    font-family: 'Sacramento', cursive;
+    color: aqua;
+    font-size: 5.729vw;
+}
+h2{
+
+    font-family: 'Montserrat', sans-serif;
+    color: aqua;
+    font-size: 2.343vw;
+}
+h2{
+
+color: cadetblue;
+}
+#d{
+color:aqua;
+
+}
+h3{
+    font-size: 1.302vw;
+}
+
+
+
